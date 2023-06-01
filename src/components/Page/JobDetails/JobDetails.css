@@ -1,0 +1,6 @@
+.banner-container{
+    height: 400px;
+    background: url('../../../assets/All Images/Vector.png'),url("../../../assets/All Images/Vector-1.png"), linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%) ;
+    background-repeat: no-repeat ;
+    background-position: bottom 0 left 0, top 0 right -10%;
+}

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+  @apply md:w-[958px] md:mx-auto pt-14 
+}
+.linkFont{
+  @apply text-base  leading-5 text-[#757575]
+}
+nav a {
+  margin-left: 31px;
+}
